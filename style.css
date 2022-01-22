@@ -499,7 +499,7 @@ p {
 #footer .footer {
 	min-height: 250px;
 	flex-direction: column;
-	width: 10000px;
+	width:350px;
 	margin-top: 5px;
 }
 #footer h2 {
